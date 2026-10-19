@@ -1,0 +1,2 @@
+# discreteYt
+Extension for youtube.
